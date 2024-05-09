@@ -1,2 +1,2 @@
 # EssentialsOfCPP
-Concepts, Principle and Design of Object Orientation using C++
+Concepts, Principles and Design Patterns of Object Orientation using C++
